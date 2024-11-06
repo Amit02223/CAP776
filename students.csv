@@ -1,0 +1,16 @@
+StudentID,Name,Age,Gender,Grade,Major,GPA
+101,John Doe,20,M,Junior,Computer Science,3.5
+102,Jane Smith,19,F,Sophomore,Mathematics,3.7
+103,Emily Davis,21,F,Senior,Physics,3.9
+104,Michael Brown,20,M,Junior,Biology,3.4
+105,Sarah Wilson,22,F,Senior,Computer Science,3.6
+106,David Jones,19,M,Sophomore,Mathematics,3.2
+107,Emma Garcia,18,F,Freshman,English,3.8
+108,Chris Lee,21,M,Senior,Chemistry,3.1
+109,Olivia Martinez,20,F,Junior,History,3.3
+110,Daniel White,18,M,Freshman,Computer Science,3.9
+111,Lily Clark,22,F,Senior,Physics,3.8
+112,James Lewis,21,M,Junior,Economics,3.5
+113,Mia Walker,20,F,Sophomore,Biology,3.6
+114,Ben Turner,19,M,Sophomore,History,3.4
+115,Zoe Young,18,F,Freshman,Mathematics,3.7
